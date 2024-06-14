@@ -5,8 +5,4 @@ mother
 sister
 brother
 
-friend name
-rofik
-aninda
-raj
-sayem
+
